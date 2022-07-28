@@ -1,0 +1,98 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+hr{
+    border-color: #06283D;
+    border-style: dotted;
+    border-width: 5px;
+    border-top: 1px;
+    width: 5%;
+}
+
+h1{
+  color: #66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+a{
+  color: #11999E;
+}
+
+.pro{
+  text-decoration: underline;
+}
+
+.top_container{
+  background-color: #06283D;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle_container{
+  background-color: #47B5FF;
+  height: 200px;
+  width: 200px;
+}
+
+.bottom_container{
+  background-color: #1363DF;
+  height: 200px;
+  width: 200px;
+}
+
+.ufo{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.spaceship{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row1{
+  width: 50%;
+  margin: 100px auto 200px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill-row2{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.code-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.learn-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.intro{
+  color: #40514E;
+}
